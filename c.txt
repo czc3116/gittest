@@ -1,0 +1,1 @@
+yum -y install curl curl-devel zlib-devel openssl-devel perl cpio expat-devel gettextdevel gcc cc
